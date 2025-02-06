@@ -1,3 +1,7 @@
 Cat meme
+<<<<<<< HEAD
 Meme cat
 
+=======
+Meme cat не кчау
+>>>>>>> conflict-branch
